@@ -1,0 +1,7 @@
+numpy
+faiss-cpu
+pandas
+requests
+ollama
+sentence_transformers
+msgpack
